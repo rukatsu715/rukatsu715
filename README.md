@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rukatsu</h1>
-<h3 align="center">Mainly Software Engineer, also love to learn.</h3>
+<h3 align="center">Software Engineer, also love to learn.</h3>
 
 - 🌱 I’m currently learning **PHP 8.3 with CodeIgniter 4 v4.5.x, hopely soon with Laravel**
 
